@@ -12,9 +12,6 @@ Check and install express by using the following command:<br>
 
 ## Sample Images
 Here are some sample images of the project in action. These images demonstrate working of the application. <br>
-<center>
-<img src="https://github.com/Tanishq-Nukapai/NSD/blob/c837aa08bf8394e22aa77b8548b2bbb2e4b201f7/Sample%20Images/SignUp%20Page.png" alt="SignUp Page" align="center" width="80%" >
-</center>
-![SignUp Page](https://github.com/Tanishq-Nukapai/NSD/blob/c837aa08bf8394e22aa77b8548b2bbb2e4b201f7/Sample%20Images/SignUp%20Page.png)
-![SignUp Success](https://github.com/Tanishq-Nukapai/NSD/blob/aeab530043d014900091eb043dbd977f6c468599/Sample%20Images/SignUp%20Success.png))
-![userDatabase](https://github.com/Tanishq-Nukapai/NSD/blob/aeab530043d014900091eb043dbd977f6c468599/Sample%20Images/userDatabase.png)
+<img src="https://github.com/Tanishq-Nukapai/NSD/blob/c837aa08bf8394e22aa77b8548b2bbb2e4b201f7/Sample%20Images/SignUp%20Page.png" alt="SignUp Page" width="80%" >
+<img src="https://github.com/Tanishq-Nukapai/NSD/blob/aeab530043d014900091eb043dbd977f6c468599/Sample%20Images/SignUp%20Success.png" alt="SignUp Success" width="80%" >
+<img src="https://github.com/Tanishq-Nukapai/NSD/blob/aeab530043d014900091eb043dbd977f6c468599/Sample%20Images/userDatabase.png" alt="userDatabase" width="80%" >
