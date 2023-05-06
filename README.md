@@ -12,6 +12,6 @@ Check and install express by using the following command:<br>
 
 ## Sample Images
 Here are some sample images of the project in action. These images demonstrate working of the application.
-![SignUp Page](Sample Images/SignUp Page.png)
+![SignUp Page](https://github.com/Tanishq-Nukapai/NSD/blob/c837aa08bf8394e22aa77b8548b2bbb2e4b201f7/Sample%20Images/SignUp%20Page.png)
 ![SignUp Success](Sample Images/SignUp Success.png)
 ![userDatabase](Sample Images/userDatabase.png)
