@@ -5,7 +5,7 @@
 
 ### Before proceeding to run the sign-up form, the following dependencies must be succesfully installed on your system.
 Check and install express by using the following command.
-Express is used to set middlewares to respond to HTTP requests:
+Express is used to set middlewares to respond to HTTP requests: <br>
 `npm install express`
 
 ### Setup "mongoose", as it sits on top of Node's MongoDB driver.
